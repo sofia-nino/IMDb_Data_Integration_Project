@@ -75,12 +75,3 @@ Repository Contents:
 * README.txt                                 - Project documentation
 
 
-How to Run:
------------
-1. Upload the three IMDb TSV files (title.basics.tsv, title.ratings.tsv, 
-   title.crew.tsv) to your Databricks Volume or DBFS storage.
-2. Update the input file paths in Section 2 of the notebook to match 
-   your specific storage location.
-3. Run all cells sequentially (Cell -> Run All).
-
-========================================================================
